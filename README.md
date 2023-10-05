@@ -170,7 +170,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@avirajkhare00](https://twitter.com/avirajkhare00)
+Aviraj Khare - [@avirajkhare00](https://twitter.com/avirajkhare00)
+Sahil Sagwekar - [@sagwekar_sahil](https://twitter.com/sagwekar_sahil)
+LV Nilesh - [@lvnilesh](https://github.com/lvnilesh)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
